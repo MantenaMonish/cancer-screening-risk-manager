@@ -3,6 +3,15 @@
 
 This project is a machine learning-based system that helps generate personalized cancer screening reminders for patients based on their medical history, lifestyle, and existing risk labels. The pipeline includes data preprocessing, exploratory data analysis (EDA), model training, and screening schedule generation based on clinical guidelines.
 
+This project is a full-stack application that helps healthcare professionals identify patients at risk for breast, cervical, and colorectal cancer and generate timely screening reminders.
+
+It includes:
+- A **backend (Flask API)** for risk prediction and reminder logic
+- A **frontend (React)** for dashboard visualization and interaction
+- A **machine learning pipeline** that trains models for each cancer type
+- Integration with patient data (`patients.csv`) for real-time inference
+
+---
 ## Project Structure
 
 - **Data Loading and Cleaning**  

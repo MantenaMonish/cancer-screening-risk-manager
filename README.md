@@ -1,4 +1,3 @@
-# %%writefile README.md
 
 # Cancer Screening Reminder System
 
